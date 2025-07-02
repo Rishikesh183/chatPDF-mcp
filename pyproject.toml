@@ -1,0 +1,23 @@
+[project]
+name = "ragmcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu>=1.11.0",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.26",
+    "langchain-google-genai>=2.1.6",
+    "langchainhub>=0.1.21",
+    "langgraph>=0.5.0",
+    "pandas>=2.3.0",
+    "pdfminer-six>=20250506",
+    "pydantic>=2.11.7",
+    "python-docx>=1.2.0",
+    "python-pptx>=1.0.2",
+    "sentence-transformers>=5.0.0",
+    "streamlit>=1.46.1",
+    "tiktoken>=0.9.0",
+    "unstructured>=0.18.2",
+]

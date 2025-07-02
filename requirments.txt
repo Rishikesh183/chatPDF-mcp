@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchainhub
+faiss-cpu
+unstructured
+pdfminer.six
+python-pptx
+python-docx
+pandas
+openai
+tiktoken
+pydantic
+sentence-transformers
+streamlit
