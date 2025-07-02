@@ -12,7 +12,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot that answers 
   - `RetrievalAgent`: Embeds + semantically searches relevant chunks
   - `LLMResponseAgent`: Builds prompt and generates final answer
 - 🔗 **MCP (Model Context Protocol)** message-passing system
-- 🧩 Powered by `LangGraph`, `LangChain`, `FAISS`, `Google Gemini / OpenAI`
+- 🧩 Powered by `LangChain`, `FAISS`, `Google Gemini / OpenAI`
 - 🌐 **Streamlit UI** for uploads and multi-turn Q&A
 
 ---
