@@ -32,6 +32,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot that answers 
 
 ## 📁 Project Structure
 
+```
 rag-chatbot/
 │
 ├── main.py # LangGraph pipeline runner
@@ -53,7 +54,7 @@ rag-chatbot/
 │
 ├── README.md
 └── architecture.pptx # Slide deck for submission
-
+```
 
 ---
 
